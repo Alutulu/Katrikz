@@ -409,6 +409,7 @@ MonoBehaviour:
   width: 6
   height: 6
   cellPrefab: {fileID: 5287843502483230089, guid: a478984b81dc191d386979bf5440cec0, type: 3}
+  cellLabelPrefab: {fileID: 2322540676067447037, guid: e0c9d072dec6975c69773a169613f0db, type: 3}
 --- !u!4 &610012242
 Transform:
   m_ObjectHideFlags: 0
